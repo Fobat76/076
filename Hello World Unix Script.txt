@@ -1,0 +1,6 @@
+#Name: Devin Chen 
+#Email: Devinc23456@gmail.com 
+#Date: October 10, 2023
+#Prints Hello World in the terminal 
+
+echo "Hello, World"
